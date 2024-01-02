@@ -39,7 +39,7 @@ My solutions to Leetcode equivalent problems on the Grokking the Coding Intervie
 * https://leetcode.com/problems/circular-array-loop/
 
 ## Pattern: Merge Intervals
-* https://leetcode.com/problems/merge-intervals/
+* https://leetcode.com/problems/merge-intervals/ ✅
 * https://leetcode.com/problems/insert-interval/
 * https://leetcode.com/problems/interval-list-intersections/
 * https://leetcode.com/problems/meeting-rooms-ii/
