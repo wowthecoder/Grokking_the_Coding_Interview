@@ -83,7 +83,7 @@ My solutions to Leetcode equivalent problems on the Grokking the Coding Intervie
 * https://leetcode.com/problems/binary-tree-maximum-path-sum/
 
 ## Pattern: Two Heaps
-* https://leetcode.com/problems/find-median-from-data-stream/
+* https://leetcode.com/problems/find-median-from-data-stream/ ✅
 * https://leetcode.com/problems/sliding-window-median/
 * https://leetcode.com/problems/ipo/
 * https://leetcode.com/problems/find-right-interval/
