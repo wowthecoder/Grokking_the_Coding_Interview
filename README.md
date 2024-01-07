@@ -89,7 +89,7 @@ My solutions to Leetcode equivalent problems on the Grokking the Coding Intervie
 * https://leetcode.com/problems/find-right-interval/
 
 ## Pattern: Subsets
-* https://leetcode.com/problems/subsets/
+* https://leetcode.com/problems/subsets/ ✅
 * https://leetcode.com/problems/subsets-ii/
 * https://leetcode.com/problems/permutations/
 * https://leetcode.com/problems/letter-case-permutation/
