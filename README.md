@@ -64,9 +64,9 @@ My solutions to Leetcode equivalent problems on the Grokking the Coding Intervie
 * https://leetcode.com/problems/rotate-list/
 
 ## Pattern: Tree Breadth First Search
-* https://leetcode.com/problems/binary-tree-level-order-traversal/
-* https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
-* https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+* https://leetcode.com/problems/binary-tree-level-order-traversal/ ✅
+* https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ ✅
+* https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ ✅
 * https://leetcode.com/problems/minimum-depth-of-binary-tree/
 * https://leetcode.com/problems/inorder-successor-in-bst/  # Close, not exact
 * https://leetcode.com/problems/populating-next-right-pointers-in-each-node/  # Close, grokk assumes non-perfect tree
@@ -74,8 +74,8 @@ My solutions to Leetcode equivalent problems on the Grokking the Coding Intervie
 * https://leetcode.com/problems/binary-tree-right-side-view/
 
 ## Pattern: Tree Depth First Search
-* https://leetcode.com/problems/path-sum/ (done)
-* https://leetcode.com/problems/path-sum-ii/
+* https://leetcode.com/problems/path-sum/ ✅
+* https://leetcode.com/problems/path-sum-ii/ ✅
 * https://leetcode.com/problems/sum-root-to-leaf-numbers/
 * https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/description/
 * https://leetcode.com/problems/path-sum-iii/
