@@ -1,12 +1,12 @@
 # Grokking_the_Coding_Interview
-My solutions to Leetcode equivalent problems on the Grokking the Coding Interview course
+My solutions to Leetcode equivalent problems on the Grokking the Coding Interview course (and miscellaneous related problems)
 
 ## Pattern: Sliding Window
 
 * https://leetcode.com/problems/maximum-subarray/ # Close enough ✅
 * https://leetcode.com/problems/minimum-size-subarray-sum/ ✅
 * https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
-* https://leetcode.com/problems/fruit-into-baskets/
+* https://leetcode.com/problems/fruit-into-baskets/ ✅
 * https://leetcode.com/problems/longest-substring-without-repeating-characters/
 * https://leetcode.com/problems/longest-repeating-character-replacement/
 * https://leetcode.com/problems/max-consecutive-ones-iii/
